@@ -4,16 +4,16 @@
   {
    "name": "Agrigento",
    "children": [
-    {"name": "Agricento", "size":1000},
-    {"name": "Burgio", "size": 100},
-    {"name": "Caltabellotta", "size": 300},
-    {"name": "Lucca Sicula", "size": 100},
-    {"name": "Menfi", "size": 200},
-    {"name": "Sambuca di Sicilia", "size": 300}, 
-    {"name": "San Giovanni Gemini ", "size": 200},
-    {"name": "Santo Stefano Quisquina", "size": 300},
-    {"name": "Sciacca", "size": 100},
-    {"name": "Ribera", "size": 200}
+    {"name": "Agricento", "size":10},
+    {"name": "Burgio", "size": 1},
+    {"name": "Caltabellotta", "size": 3},
+    {"name": "Lucca Sicula", "size": 1},
+    {"name": "Menfi", "size": 2},
+    {"name": "Sambuca di Sicilia", "size": 3}, 
+    {"name": "San Giovanni Gemini ", "size": 2},
+    {"name": "Santo Stefano Quisquina", "size": 3},
+    {"name": "Sciacca", "size": 1},
+    {"name": "Ribera", "size": 2}
    
    ]
     
@@ -23,32 +23,32 @@
   {
    "name": "Catania",
    "children": [
-    {"name": "Bronte", "size": 300},
-    {"name": "Caltagirone", "size": 200},
-    {"name": "Catania", "size": 500},
-    {"name": "Linguaglossa", "size": 3416},
-    {"name": "Milo", "size": 3416},
-    {"name": "Motta Sant'Anastasia", "size": 3416},
-    {"name": "Acireale", "size": 100},
-    {"name": "Adrano", "size": 100},
-    {"name": "Paternà", "size": 1759},
-    {"name": "Randazzo", "size": 2165},
-    {"name": "Riposto", "size": 586},
-    {"name": "Santa Venerina", "size": 3331},
-    {"name": "Sant'Alfio", "size": 772},
-    {"name": "Vizzini", "size": 772},
-    {"name": "Zafferana", "size": 772},
-    {"name": "Trecastagni", "size": 3322}
+    {"name": "Bronte", "size": 3},
+    {"name": "Caltagirone", "size": 2},
+    {"name": "Catania", "size": 5},
+    {"name": "Linguaglossa", "size": 1},
+    {"name": "Milo", "size": 5},
+    {"name": "Motta Sant'Anastasia", "size": 1},
+    {"name": "Acireale", "size": 1},
+    {"name": "Adrano", "size": 1},
+    {"name": "Paternà", "size": 2},
+    {"name": "Randazzo", "size": 2},
+    {"name": "Riposto", "size": 1},
+    {"name": "Santa Venerina", "size": 2},
+    {"name": "Sant'Alfio", "size": 4},
+    {"name": "Vizzini", "size": 1},
+    {"name": "Zafferana", "size": 4},
+    {"name": "Trecastagni", "size": 2}
    ]
   },
  
   {
    "name": "Messina",
    "children": [
-    {"name": "Caronia", "size": 1082},
-    {"name": "Furnari", "size": 1082},
-    {"name": "San Pietro Patti", "size": 1082},
-    {"name": "Taormina", "size": 1082}
+    {"name": "Caronia", "size": 4},
+    {"name": "Furnari", "size": 1},
+    {"name": "San Pietro Patti", "size": 1},
+    {"name": "Taormina", "size": 5}
   
    
    ]
@@ -56,30 +56,30 @@
   {
    "name": "Palermo",
    "children": [
-    {"name": "Bisacquino", "size": 1082},
-    {"name": "Castelbuono", "size": 1082},
-    {"name": "Contessa Entellina", "size": 1082},
-    {"name": "Palazzo Adriano", "size": 1336},
-    {"name": "Palermo", "size": 319}
+    {"name": "Bisacquino", "size": 1},
+    {"name": "Castelbuono", "size": 2},
+    {"name": "Contessa Entellina", "size": 1},
+    {"name": "Palazzo Adriano", "size": 8},
+    {"name": "Palermo", "size": 44}
    
    ]
   },
   {
    "name": "Ragusa",
    "children": [
-    {"name": "Acate", "size": 1616},
-    {"name": "Chiaramonte Gulfi", "size": 1027},
-    {"name": "Ispica", "size": 3891},
-    {"name": "Modica", "size": 891},
-    {"name": "Ragusa", "size": 2893}
+    {"name": "Acate", "size": 1},
+    {"name": "Chiaramonte Gulfi", "size": 3},
+    {"name": "Ispica", "size": 1},
+    {"name": "Modica", "size": 4},
+    {"name": "Ragusa", "size": 3}
    
    ]
   },
   {
    "name": "Siracusa",
    "children": [
-    {"name": "Noto", "size": 5103},
-    {"name": "Palazzolo", "size": 3677}
+    {"name": "Noto", "size": 1},
+    {"name": "Palazzolo", "size": 4}
    ]
   }
   
