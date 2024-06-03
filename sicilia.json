@@ -4,7 +4,7 @@
   {
    "name": "Agrigento",
    "children": [
-    {"name": "Agricento", "size":10},
+    {"name": "Agrigento", "size":10},
     {"name": "Burgio", "size": 1},
     {"name": "Caltabellotta", "size": 3},
     {"name": "Lucca Sicula", "size": 1},
